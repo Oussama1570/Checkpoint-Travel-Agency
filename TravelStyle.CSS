@@ -1,0 +1,105 @@
+
+.Home img {height: 15px; 
+width: 15px;}
+
+.DubaiTitle { font-style: italic; 
+font-size: 35px;}
+.DubaiP {font-style: italic; 
+font-size: 28px;}
+
+.Tours h2 {margin-left: 45%;
+    margin-top: 7%; 
+    margin-bottom: 7%; 
+font-size: 35px; 
+color: rgb(228, 226, 111);
+}
+
+.Aheading h3 {margin-left: 42%; 
+    margin-top: 5%;
+    margin-bottom: 3%; 
+font-style: italic; 
+ font-size: 30px;
+color: rgb(6, 58, 49);} 
+
+.ASubheading h4 { font-style: italic; 
+font-size: 28px; 
+color: rgb(35, 6, 63); 
+margin-left: 44%;
+margin-top: 2%;
+margin-bottom: 2%;} 
+
+.ButtonBook button {justify-content: center; 
+margin-left: 47%;} 
+
+.Destinations h2 {text-align: center; 
+    margin-top: 7%; 
+    margin-bottom: 7%; 
+font-size: 35px; 
+color: rgb(228, 226, 111);}
+
+
+.cards {display: flex; 
+justify-content: space-between;} 
+
+.card-title {text-align: center; font-style: italic;} 
+.card-text {text-align: center; font-style: italic;} 
+
+.BtnLM {margin-left: 30%;} 
+
+
+.Tours { margin: 15%;} 
+.accordion-button {font-family: Arial, Helvetica, sans-serif; 
+font-style: italic; 
+;} 
+.accordion-body 
+{ font-family: Arial, Helvetica, sans-serif; 
+font-style: italic;}
+
+.Contact h2 {margin-left: 45%;
+    margin-top: 7%; 
+    margin-bottom: 7%; 
+font-size: 35px; 
+color: rgb(228, 226, 111);
+}
+
+.Contact form {font-family: Arial, Helvetica, sans-serif; font-style: italic; 
+    background-color: rgb(169, 202, 240); border-radius: 4%; margin-bottom: 5%; margin-left: 1%; margin-right: 1%;}
+
+.mb-3 {justify-content: center; 
+text-align: center; font-style: italic;  
+font-family: Arial, Helvetica, sans-serif; margin-left: 35%; margin-right: 35%; 
+color: rgb(18, 88, 105);}
+
+
+.submit {margin-left: 10%; margin-top: 0%; margin-bottom: 0%;} 
+.Contact p {text-align: center; color: rgb(122, 12, 12); font-family: Arial, Helvetica, sans-serif; margin-top: 3%;}
+.Contact button {margin-top: 5%; margin-bottom: 5%; margin-left: 48%;} 
+
+
+
+.footer
+{ 
+background-color: #c3e4ec; 
+border-radius: 5%; 
+}
+
+.footer p { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-style: italic;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%; 
+    font-weight: 300px
+    ; 
+}
+footer img { 
+    margin-left: 46.5%;
+    width: 7%;
+    height: 7%;
+}
+
+
+
+
+
+
